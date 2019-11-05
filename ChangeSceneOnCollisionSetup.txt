@@ -1,6 +1,0 @@
-give player rigidbody
-(or give it to the portal, just make sure at least one of them has this) 
-
-Under the portal's collider behavior, check "is trigger".
-Give the portal ChangeSceneOnCollision, and fill in
-"DestScene" with the name of the scene to switch to
